@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DylanGuzman
-- 👀 I’m interested in videogames and music
-- 🌱 I’m currently learning codes of pc
-- 💞️ I’m looking to collaborate on the university
-- 📫 How to reach me ...
+- 👋 Hola! me llamo Dylan
+- 👀 Me interesan los juegos y la musica
+- 🌱 estoy aprendiendo codigos para pc
+- 💞️ Soltero
+- 📫 dylannietoguzman5@gmail.com
 
 <!---
 DylanGuzman/DylanGuzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
